@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/* change the color of "seo" */
 .header h1 .seo {
     color: #ffffff;
 }
@@ -115,7 +116,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* The last three images should have a height of 150px */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -163,7 +164,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* The first three images should have a height of 200px */
 .search-engine-optimization img {
     height: 200px;
 }
@@ -191,6 +192,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer centered and with padding 20px */
 .footer {
     padding: 30px;
     clear: both;
